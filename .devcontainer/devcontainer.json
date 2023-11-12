@@ -1,0 +1,9 @@
+
+{
+  "image": "mcr.microsoft.com/dotnet/sdk:8.0",
+  "settings": {
+    // Add any VS Code settings here.
+  },
+  // Other configurations
+}
+
